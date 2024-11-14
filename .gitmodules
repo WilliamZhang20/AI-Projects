@@ -1,0 +1,9 @@
+[submodule "Nim_AI"]
+	path = Nim_AI
+	url = https://github.com/WilliamZhang20/Nim_AI
+[submodule "Cart-Pole-DQN"]
+	path = Cart-Pole-DQN
+	url = https://github.com/WilliamZhang20/Cart-Pole-DQN
+[submodule "ML_From_Scratch"]
+	path = ML_From_Scratch
+	url = https://github.com/WilliamZhang20/ML_From_Scratch
